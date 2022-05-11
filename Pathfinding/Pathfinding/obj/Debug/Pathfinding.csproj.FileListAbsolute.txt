@@ -1,0 +1,70 @@
+C:\Users\Admin\Desktop\ооп\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe.config
+C:\Users\Admin\Desktop\ооп\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\ооп\Pathfinding\Pathfinding\bin\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.About.resources
+C:\Users\Admin\Desktop\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Form1.resources
+C:\Users\Admin\Desktop\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Properties.Resources.resources
+C:\Users\Admin\Desktop\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\старое\ооп\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe.config
+C:\Users\Admin\Desktop\старое\ооп\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\старое\ооп\Pathfinding\Pathfinding\bin\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\старое\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\старое\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.About.resources
+C:\Users\Admin\Desktop\старое\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Form1.resources
+C:\Users\Admin\Desktop\старое\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Properties.Resources.resources
+C:\Users\Admin\Desktop\старое\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\старое\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\старое\ооп\Pathfinding\Pathfinding\obj\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\важное\Практика\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\важное\Практика\Pathfinding\Pathfinding\obj\Debug\Pathfinding.About.resources
+C:\Users\Admin\Desktop\важное\Практика\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Form1.resources
+C:\Users\Admin\Desktop\важное\Практика\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Properties.Resources.resources
+C:\Users\Admin\Desktop\важное\Практика\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\важное\Практика\Pathfinding\Pathfinding\obj\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\важное\Практика\Pathfinding\Pathfinding\obj\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\важное\Практика\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe.config
+C:\Users\Admin\Desktop\важное\Практика\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\важное\Практика\Pathfinding\Pathfinding\bin\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\важное\Практика (диплом лол)\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe.config
+C:\Users\Admin\Desktop\важное\Практика (диплом лол)\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\важное\Практика (диплом лол)\Pathfinding\Pathfinding\bin\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\важное\Практика (диплом лол)\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\важное\Практика (диплом лол)\Pathfinding\Pathfinding\obj\Debug\Pathfinding.About.resources
+C:\Users\Admin\Desktop\важное\Практика (диплом лол)\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Form1.resources
+C:\Users\Admin\Desktop\важное\Практика (диплом лол)\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Properties.Resources.resources
+C:\Users\Admin\Desktop\важное\Практика (диплом лол)\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\важное\Практика (диплом лол)\Pathfinding\Pathfinding\obj\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\важное\Практика (диплом лол)\Pathfinding\Pathfinding\obj\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\важное\ВКР\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe.config
+C:\Users\Admin\Desktop\важное\ВКР\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\важное\ВКР\Pathfinding\Pathfinding\bin\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\важное\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\важное\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.About.resources
+C:\Users\Admin\Desktop\важное\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Form1.resources
+C:\Users\Admin\Desktop\важное\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Properties.Resources.resources
+C:\Users\Admin\Desktop\важное\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\важное\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\важное\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\ВКР\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe.config
+C:\Users\Admin\Desktop\ВКР\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\ВКР\Pathfinding\Pathfinding\bin\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.About.resources
+C:\Users\Admin\Desktop\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Form1.resources
+C:\Users\Admin\Desktop\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Properties.Resources.resources
+C:\Users\Admin\Desktop\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\ВКР\Pathfinding\Pathfinding\obj\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\важное\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe.config
+C:\Users\Admin\Desktop\важное\Pathfinding\Pathfinding\bin\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\важное\Pathfinding\Pathfinding\bin\Debug\Pathfinding.pdb
+C:\Users\Admin\Desktop\важное\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\важное\Pathfinding\Pathfinding\obj\Debug\Pathfinding.About.resources
+C:\Users\Admin\Desktop\важное\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Form1.resources
+C:\Users\Admin\Desktop\важное\Pathfinding\Pathfinding\obj\Debug\Pathfinding.Properties.Resources.resources
+C:\Users\Admin\Desktop\важное\Pathfinding\Pathfinding\obj\Debug\Pathfinding.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\важное\Pathfinding\Pathfinding\obj\Debug\Pathfinding.exe
+C:\Users\Admin\Desktop\важное\Pathfinding\Pathfinding\obj\Debug\Pathfinding.pdb
